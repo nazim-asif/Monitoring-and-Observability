@@ -170,3 +170,8 @@ Tempo is an open-source, high-performance distributed tracing backend developed 
 
 **iv. High Throughput Environments:** Tempo is suitable for environments that generate high volumes of trace data, such as large-scale microservices deployments. Its efficient storage model and lack of indexing enable it to handle this data without prohibitive costs.
 
+# architecture
+
+![architecture](https://github.com/nazim-asif/Monitoring-and-Observability/blob/main/alloy_loki_grafana.png)
+
+
