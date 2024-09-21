@@ -112,7 +112,7 @@ iii. Enriching logs with context (e.g., pod name, namespace).
 
 # Most common architecture 
 
-![architecture](Grafana loki.png)
+![architecture](https://github.com/nazim-asif/Monitoring-and-Observability/blob/main/Grafana%20loki.png)
 
 
 
