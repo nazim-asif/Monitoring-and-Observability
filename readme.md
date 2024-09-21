@@ -110,3 +110,10 @@ ii. Forwarding logs to Loki for storage and querying.
 iii. Enriching logs with context (e.g., pod name, namespace).
 
 
+# Most common architecture 
+
+![architecture](Grafana loki.png)
+
+
+
+
